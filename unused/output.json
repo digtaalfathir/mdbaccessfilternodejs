@@ -1,0 +1,140 @@
+{
+  "vin": "MHMWV1234TC000001",
+  "finish_time": "2026-04-30T15:02:52",
+  "status": "OK",
+  "grouped": {
+    "BUS LOG": [
+      {
+        "test": "Bus Log",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:51"
+      }
+    ],
+    "Initialisation": [
+      {
+        "test": "Steering Wheel Side",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:01:42"
+      },
+      {
+        "test": "IGONC_1",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:01:42"
+      },
+      {
+        "test": "CBCMGPCC_1B_MAST",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:01:42"
+      },
+      {
+        "test": "Wait for Central",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:01:50"
+      }
+    ],
+    "EPB CHECK": [
+      {
+        "test": "Check EPB Status",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:01:42"
+      }
+    ],
+    "FR": [
+      {
+        "test": "FR Target Set",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:07"
+      },
+      {
+        "test": "FRRCT2_1_Radar Aiming",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:09"
+      },
+      {
+        "test": "FR EOL Alighment_AZ",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:09"
+      },
+      {
+        "test": "FR EOL Alighment_PT",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:09"
+      }
+    ],
+    "FSC": [
+      {
+        "test": "FSC Target Set",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:15"
+      },
+      {
+        "test": "FSCRCT2_1_Camera Alignment with House Height Input",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:24"
+      },
+      {
+        "test": "FSC Result_YawAngle",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:24"
+      },
+      {
+        "test": "FSC Result_PitchAngle",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:24"
+      },
+      {
+        "test": "FSC Result_RollAngle",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:24"
+      },
+      {
+        "test": "FSC Target Home",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:35"
+      }
+    ],
+    "DTC READ": [
+      {
+        "test": "FSC Read DTCs",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:36"
+      },
+      {
+        "test": "FR Read DTCs",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:36"
+      }
+    ],
+    "VCM": [
+      {
+        "test": "VCM Clear DTCs",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:43"
+      },
+      {
+        "test": "VCM Read DTCs",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:43"
+      }
+    ],
+    "CBCM": [
+      {
+        "test": "Global Real Time",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:43"
+      }
+    ],
+    "Finish": [
+      {
+        "test": "Wait for Home",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:50"
+      },
+      {
+        "test": "Stop BUS Log",
+        "status": "Pass",
+        "finish_time": "2026-04-30T15:02:52"
+      }
+    ]
+  }
+}
