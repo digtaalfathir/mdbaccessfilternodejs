@@ -3,6 +3,9 @@
   "table": "TestStepsResults",
   "interval": 3000,
   "api_url": "http://172.17.61.24:3000/api/tools/xroad/history",
-  "vin_timeout": 20000,
-  "api_timeout": 5000
+  "vin_timeout": 300000,
+  "api_timeout": 5000,
+  "start_step": 0,
+  "complete_step": 13000,
+  "enabled": false
 }

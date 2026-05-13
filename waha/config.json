@@ -4,5 +4,6 @@
   "interval": 3000,
   "master_table": "Result_General",
   "delay_after_trigger": 200,
-  "api_timeout": 5000
+  "api_timeout": 5000,
+  "enabled": false
 }
